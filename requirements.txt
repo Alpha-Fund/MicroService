@@ -1,0 +1,6 @@
+requests
+fastapi
+pydantic
+shutil
+starlette.responses
+pytest
